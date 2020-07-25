@@ -5,20 +5,20 @@
 
 .row-content {
     margin:0px auto;
-    padding: 0px 0px 50px 0px;
+    padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
-    min-height:30px;
+    min-height:400px;
 }
 
-.footer{
-    background-color: #ebebeb !important;
+footer{
+    background: #ebebeb !important;
     margin:0px auto !important;
     padding: 20px 0px 20px 0px !important;
 }
 .jumbotron {
     padding:70px 30px 70px 30px !important;
     margin:0px auto;
-    background-color: blueviolet!important;
+    background: blueviolet !important ;
     color: white;
 }
 
@@ -26,4 +26,12 @@ address{
     font-size:80%;
     margin:0px;
     color:#0f0f0f;
+}
+body{
+    padding:50px 0px 0px 0px !important;
+    z-index:0 !important;
+}
+
+.navbar-dark {
+     background-color: #512DA8 !important;
 }
