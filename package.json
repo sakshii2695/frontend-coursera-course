@@ -20,5 +20,8 @@
   "homepage": "https://github.com/The-Geek-Monk/frontend-coursera-course#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap-social": "^5.1.1"
   }
 }
